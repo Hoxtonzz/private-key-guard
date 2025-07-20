@@ -40,4 +40,4 @@ When transmitting private keys via chat apps, email, or cloud services, there's 
 ```bash
 git clone https://github.com/yourusername/private-key-guard.git
 cd private-key-guard
-cargo run --release
+cargo build --release
