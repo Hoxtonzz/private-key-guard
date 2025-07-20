@@ -2,7 +2,7 @@
 
 A secure and lightweight GUI tool for encrypting and decrypting private keys using AES-256-GCM. Built in Rust with [egui](https://github.com/emilk/egui) and powered by [ring](https://github.com/briansmith/ring) cryptography.
 
-##💡 Motivation
+## 💡 Motivation
 When transmitting private keys via chat apps, email, or cloud services, there's a risk that plaintext content may be intercepted or logged by servers. To prevent this, Private Key Guard was built as a simple yet effective way to encrypt private keys before sending them over untrusted networks, and to decrypt them securely on the receiving end.
 
 ## ✨ Features
