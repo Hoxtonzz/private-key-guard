@@ -1,0 +1,11 @@
+[package]
+name = "pk_secret"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+ring = "0.17"
+data-encoding = "2.5"
+base64 = "0.21"
+rfd = "0.13"
+eframe = "0.24"
